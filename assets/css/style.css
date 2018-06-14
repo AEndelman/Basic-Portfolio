@@ -50,7 +50,7 @@ li {
 /* CSS for All */
 
 #fullSection {
-    background-color: magenta;
+    background-image: url(../images/light-grey-terrazzo.png);
     overflow: auto;
     clear: both;
     width: 100%;
@@ -129,6 +129,13 @@ textarea {
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
+  }
+
+  #button1{
+    background-color: #4aaaa5;
+    font-size: 10pt;
+    color:white;
+    padding: 16px 10px;
   }
 
   /* CSS for footer */
